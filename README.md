@@ -1,2 +1,1 @@
-# Flutter-Android-Watch
-Simple Classic Watch App
+# Flutter-App-For-Smart-Switch
